@@ -2,7 +2,7 @@
   "name": "protfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://benforcapita.github.io/webAPP/",
+  "homepage":"https://benforcapita.github.io/Client/",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
