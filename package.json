@@ -4,7 +4,7 @@
   "private": true,
   "homepage":"https://benforcapita.github.io/Client/",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
     "jQuery": "^1.7.4",
